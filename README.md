@@ -5,5 +5,5 @@ The game will generate a sequence of colors to push, with each correct input of 
 
 If the player fails to input the score correctly the game will end displaying the total score and game time.
 
+https://user-images.githubusercontent.com/19294169/178462879-20fa2848-3c22-4b50-8afb-a259cb8701ea.mp4
 
-https://user-images.githubusercontent.com/19294169/178458166-0c2e8cca-c444-4275-a49b-287bfdf84080.mp4
